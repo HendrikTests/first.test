@@ -10,6 +10,7 @@ public class App
     {
 		System.out.println( "Bug fix" );
         System.out.println( "Hello World! " );
-        System.out.println( "First Branch!" );        
+        System.out.println( "First Branch!" );
+        System.out.println( "1 Ready");
     }
 }
