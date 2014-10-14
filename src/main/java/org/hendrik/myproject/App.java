@@ -18,6 +18,7 @@ public class App
         System.out.println( "1 Ready");
         
         System.out.println( "After release v1");
-
+        
+        System.out.println( "Bug fix");
     }
 }
