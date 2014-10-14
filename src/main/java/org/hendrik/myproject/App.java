@@ -20,5 +20,9 @@ public class App
         System.out.println( "After release v1");
         
         System.out.println( "Bug fix");
+        
+        System.out.println( "New 1");
     }
 }
+
+
