@@ -16,6 +16,8 @@ public class App
 
         System.out.println( "First Branch!" );
         System.out.println( "1 Ready");
+        
+        System.out.println( "After release v1");
 
     }
 }
